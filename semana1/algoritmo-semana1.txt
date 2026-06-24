@@ -1,0 +1,15 @@
+Algoritmo de borrado de datos
+
+Identificar la ruta: Ubicar las carpetas, archivos o la partición del disco exacta que se va a eliminar para evitar borrar por error datos importantes del sistema.
+
+Desvinculación lógica: Ejecutar el borrado inicial en el sistema operativo para eliminar el puntero del archivo, haciéndolo invisible al usuario común aunque los datos sigan físicamente en el disco.
+
+Sobrescritura de datos: Escribir patrones de datos aleatorios (ceros y unos) sobre el espacio que ocupaba el archivo eliminado para destruir la información original y evitar que sea recuperable con software forense.
+
+Limpieza del espacio libre: Ejecutar una limpieza en todo el espacio vacío del almacenamiento para eliminar fragmentos sueltos, archivos temporales antiguos o metadatos del sistema de archivos.
+
+Auditoría de recuperación: Escanear el disco con una herramienta de recuperación de datos para comprobar que los archivos borrados ya no aparecen ni son restaurables.
+
+Destrucción física: Aplicar desmagnetización o destrucción física de los chips de memoria en caso de que el almacenamiento sea desechado y contenga información confidencial crítica.
+
+(NOTA: ESTOY EN 9NO SEMESTRE DE INGENIERIA DE SOFTWARE Y ESTO HACE PARTE DE UN TRABAJO MIO REALIZADO EN EL SEMESTRE)

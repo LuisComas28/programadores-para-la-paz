@@ -1,0 +1,8 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+R: Básicamente, la conexión está en que tanto la tecnología como la sociedad necesitan orden, transparencia y trabajo en equipo para no volverse un caos.
+En el trabajo técnico, Git te obliga a registrar cada cambio, ver quién lo hizo y resolver problemas hablando con el equipo.
+Si llevamos esa misma lógica a internet, el uso responsable de la información es el filtro que evita que nos creamos cualquier cuento y compartamos datos falsos.
+Esto es clave para la participación ciudadana, porque hoy en día cualquiera puede levantar la voz y proponer cambios desde su computadora.
+Al final, la democracia funciona igual que un proyecto de programación de código abierto: si la gente tira "código roto" (noticias falsas y odio), todo el sistema se cae.
+Pero si usamos las herramientas con responsabilidad, sabiendo de dónde viene cada dato, podemos construir una sociedad mucho más limpia y organizada
