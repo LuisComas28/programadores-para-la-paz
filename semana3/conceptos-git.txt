@@ -1,0 +1,16 @@
+Repositorio (Repository / Repo)
+Es el espacio centralizado, ya sea de forma local en tu computadora 
+o de forma remota en GitHub, donde se almacena absolutamente todo 
+lo relacionado con tu proyecto. 
+
+## Commit
+Se puede entender como una "instantánea" o 
+una foto del estado de tus archivos en un momento exacto 
+del tiempo.
+
+## Push
+Es el comando técnico y la acción de subir o transferir todos los 
+commits que has registrado localmente 
+(ya sea trabajando desde tu propia computadora o desde un entorno
+ en la nube como GitHub Codespaces)
+ hacia el servidor remoto de GitHub. 
